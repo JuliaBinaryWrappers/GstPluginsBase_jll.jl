@@ -1,0 +1,16 @@
+name = "GstPluginsBase_jll"
+uuid = "e8a05a0c-2c7d-51b7-a4ec-976abaf7f9a3"
+version = "1.20.3+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+GStreamer_jll = "aaaaf01e-2457-52c6-9fe8-886f7267d736"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Opus_jll = "91d4177d-7536-5919-b921-800302f37372"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+GStreamer_jll = "1.20.3"

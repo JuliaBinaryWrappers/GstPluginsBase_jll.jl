@@ -1,0 +1,125 @@
+[[GstPluginsBase]]
+arch = "aarch64"
+git-tree-sha1 = "26936a0a01b461c5ef481d5fb597f403bf20c820"
+os = "macos"
+
+    [[GstPluginsBase.download]]
+    sha256 = "51176df4c0aa6cd0041f5e549642363b6821a7605dd2cf77d2d5c9337a6ddee1"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.aarch64-apple-darwin.tar.gz"
+[[GstPluginsBase]]
+arch = "aarch64"
+git-tree-sha1 = "7713635087805824bd4646eacf32b184917511bf"
+libc = "glibc"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "c763bf74d701941470ffe34d9427104f6551d6de53d42249a05948c7d5f80a73"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.aarch64-linux-gnu.tar.gz"
+[[GstPluginsBase]]
+arch = "aarch64"
+git-tree-sha1 = "3e4b832c54bae758547b91374d7f0e1fdd1a9f11"
+libc = "musl"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "3014675dea8789bf4815167283661ea46c3034d06781301a6d0c0f53cf6775be"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.aarch64-linux-musl.tar.gz"
+[[GstPluginsBase]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2da435479364a5fe91a62a2f65b89d101359905a"
+libc = "glibc"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "b485caeeae5073f69b48c2002d867b3f0bcb40754a2be5c56f7b4e5b6e95b059"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.armv6l-linux-gnueabihf.tar.gz"
+[[GstPluginsBase]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d5e9e07b44a6421c265bd2917a00c6362543d506"
+libc = "musl"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "fff9adcf1b30eb1ad53394cf0d48e38f94c9804a03283603686fd8d0af35c640"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.armv6l-linux-musleabihf.tar.gz"
+[[GstPluginsBase]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9bb5a08508109201bceb4a13ce4a80d9e08231b9"
+libc = "glibc"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "03811ffd8f199b769a5354c96ac67d6b4b5f0c8d7530fbc1832a95ea8cd5cd4e"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.armv7l-linux-gnueabihf.tar.gz"
+[[GstPluginsBase]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b548fb231adaaac8aec1a31c4798621a72413229"
+libc = "musl"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "39e1d2055f8384067d7e11bbc0e004b54c8ca0d3c3fb4869e2c6f3e9bbfb699a"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.armv7l-linux-musleabihf.tar.gz"
+[[GstPluginsBase]]
+arch = "i686"
+git-tree-sha1 = "2e21096e9547d2c9966497740e56893174d0c085"
+libc = "glibc"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "1e434e73d6e387bd2809d1113c86a9b49a1be17c83d139101f35672c6577992c"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.i686-linux-gnu.tar.gz"
+[[GstPluginsBase]]
+arch = "i686"
+git-tree-sha1 = "121458ec24c23280744560fa59807bd27e8b709d"
+os = "windows"
+
+    [[GstPluginsBase.download]]
+    sha256 = "b90da4592edbd4addd558936ff9a25df660759dc56cdaffd1f724572ed84a2ee"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.i686-w64-mingw32.tar.gz"
+[[GstPluginsBase]]
+arch = "x86_64"
+git-tree-sha1 = "19c84adc6a7fe8446c3389cf60713a1dc69fe60c"
+os = "macos"
+
+    [[GstPluginsBase.download]]
+    sha256 = "85a192fe71464844484019ac85c7c8ec12a39b8e3f6f846878bc7c4d5fe4959e"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.x86_64-apple-darwin.tar.gz"
+[[GstPluginsBase]]
+arch = "x86_64"
+git-tree-sha1 = "3e9b4e935ad8c5ce867308cc5e0ab7c4f118321a"
+libc = "glibc"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "39178907859705d191d7d341bcf281ede739193c0115b43a77405401b816e776"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.x86_64-linux-gnu.tar.gz"
+[[GstPluginsBase]]
+arch = "x86_64"
+git-tree-sha1 = "6743879d91b8c49ca425f2b466d8c71be9c54316"
+libc = "musl"
+os = "linux"
+
+    [[GstPluginsBase.download]]
+    sha256 = "361fe1946505c31e363395d109df459564e8264d65b4a0d24477c2150288801e"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.x86_64-linux-musl.tar.gz"
+[[GstPluginsBase]]
+arch = "x86_64"
+git-tree-sha1 = "2f3446a1cc39ceb0bdc7efeb51d4feaf5f128dfc"
+os = "freebsd"
+
+    [[GstPluginsBase.download]]
+    sha256 = "bcb331c0c8d29a8ac7c288a071820f082476d37b02167eb6e4de19f886e90bda"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.x86_64-unknown-freebsd.tar.gz"
+[[GstPluginsBase]]
+arch = "x86_64"
+git-tree-sha1 = "f33f64aace4673c5f13b8d6d4f1987c5f51f9819"
+os = "windows"
+
+    [[GstPluginsBase.download]]
+    sha256 = "9a2162385118ae3573690b71c255e9c977a36ec19a8fc5c5374d2e53cbe84039"
+    url = "https://github.com/JuliaBinaryWrappers/GstPluginsBase_jll.jl/releases/download/GstPluginsBase-v1.20.3+0/GstPluginsBase.v1.20.3.x86_64-w64-mingw32.tar.gz"
